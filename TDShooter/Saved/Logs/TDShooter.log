@@ -906,3 +906,421 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-15.05.29:164][975]AssetCheck: New page: Asset Save: Untitled
 [2024.04.10-15.05.29:164][975]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
 [2024.04.10-15.05.29:232][977]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.10-15.07.09:965][303]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.10-15.07.09:974][303]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.10-15.07.13:968][782]LogContentBrowser: Attempting asset rename: NewFolder -> assets
+[2024.04.10-15.07.13:969][782]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.10-15.07.24:545][374]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Downloads\OneDrive-2024-04-10.zip'. Unknown extension 'zip'.
+[2024.04.10-15.10.31:109][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:112][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_B.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:115][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Attack_Melee_C.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:117][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Roar.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:120][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Cast_Summon.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:123][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Charge.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:126][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:128][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Falling.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:131][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:133][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Heavy_Front.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:136][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Knockback_Front.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:138][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:141][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Enter.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:143][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Exit.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:145][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_React_Stunned_Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:148][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Teleport.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:151][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Bwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:153][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Fwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:155][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Left.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:158][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Walk_Right.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:160][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:163][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Materials/CharM_Greater_Spider_Ice.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:165][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/SK_Greater_Spider.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:168][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:170][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:173][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:175][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:178][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Ice_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:180][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Death.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:182][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Idle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:185][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Run_Bwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:187][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Run_Fwd.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:189][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Run_Lt.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:191][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Run_Rt.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:194][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Animations/Sprint.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:196][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:199][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Marine_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:202][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Marine_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:204][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/MI_Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:207][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Base.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:209][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Emissive_Custom.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:212][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Glass.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:215][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Metal_light.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:217][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Metal_Painted.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:220][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Rubber_dark.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:223][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/ML_Rubber_light.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:226][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/M_BodyDamage.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:229][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Materials/M_Marine.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:232][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_02_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:235][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:238][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_Fabric_N_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:240][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_M.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:243][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_Metal_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:246][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_Metal_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:249][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_M_03tga.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:251][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Chr_FPS_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:254][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/holo_layer_1_5.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:256][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/Tiles/T_Sctraches_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:259][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Characters/Marine/Textures/T_Vista_Grass_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:262][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Gameplay/Pickups/M_PickUp_Master.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:265][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/LensFlare/M_Lensflare_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:268][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/LensFlare/M_LensFlare_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:270][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Ramp/M_radial_ramp_soft.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:273][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Ramp/M_SoftGradient_Muzzle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:276][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Smoke/M_ImpactSmoke.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:278][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Smoke/M_MuzzleSmokeDetail_GPU.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:281][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Smoke/M_SmokeBall.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:284][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/spark/M_spark_subUV.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:286][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Weapon/M_MuzzleGlow.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:289][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Weapon/M_muzzle_flash_subUV.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:292][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Weapon/M_WP_Linkgun_Connection.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:295][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Materials/Weapon/M_WP_ShockRifle_Panning_Beam.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:297][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Meshes/Gameplay/Pickups/Ammo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:301][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Meshes/Gameplay/Pickups/SM_Health.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.31:304][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Meshes/General/S_Sphere.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:444][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Meshes/Weapon/SM_MuzzleCone.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:520][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Energy/T_EFX_Beam_Electricity_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:523][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/LensFlare/Flare_02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:526][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/LensFlare/T_Lensflare_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:530][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Mask/T_SquareMaskTightEdge.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:533][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Noise/T_TileNoise.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:537][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Ramp/T_FX_CameraDistort.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:540][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Ramp/T_FX_ColorDistort.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:544][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Smoke/T_Clouds_01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:547][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Smoke/T_SmokeBall_01_8_8.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:550][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Spark/T_SparkCore_2X2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:553][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Water/T_Caustics_2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:556][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Water/T_Steam_02_Packed.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:559][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Misc/Textures/Weapon/T_muzzle_flashes.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:563][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Pick-ups/P_AssaultRifle_AMmo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:566][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Pick-ups/P_Health.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:569][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Weapons/Impacts/P_AssaultRifle_IH.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:572][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Weapons/Impacts/P_CreatureImpact.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:575][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Weapons/Muzzle/P_AssaultRifle_MF.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:579][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Effects/Weapons/Muzzle/P_AssaultRifle_Trail.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:582][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:585][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:589][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/RoomTone_AbstractBitcrushed05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:592][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_High01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:595][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_High02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:599][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_High03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:602][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_High_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:606][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_Low01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:609][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_Low02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:612][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_Low03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:616][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindAnimated_Low_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:619][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindSteady01_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:622][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindSteady02_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:626][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindSteady03_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:629][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindSteady04_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:633][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/WindSteady_Loop_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:635][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_Abstract01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:638][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_Abstract02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:641][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_Abstract03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.36:645][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_Abstract04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:340][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_Abstract05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:396][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientLoops/Stereo/Wind_AbstractAnimated_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:399][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:403][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:406][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/AmbientNonLoops/Stereo/MetalCreak_Pillars15_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:409][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Aim_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:412][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:415][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:418][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:421][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:424][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_BodyMove_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:427][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:430][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:433][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:436][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:439][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Fall_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:441][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:444][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:447][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:450][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:453][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_HandSwipe_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:456][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Land02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:459][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Land03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:461][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Land04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:464][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Land05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:467][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/FoleyBody_Land_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:470][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run01_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:472][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run02_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:475][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run03_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:478][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run04_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:481][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run05_Loop.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:484][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/RunStop01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:487][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/RunStop02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:490][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/RunStop03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:493][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/RunStop_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:495][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Mono/Run_Loop_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:498][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:501][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:504][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:507][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:510][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_BodyMove_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:512][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:515][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:517][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:520][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:523][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_HandSwipe_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:526][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:529][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:532][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:535][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:538][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.39:541][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyBodyMoves/Stereo/FoleyBody_Land_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:163][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:258][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:261][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:265][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:269][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:272][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:276][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:279][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:283][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:286][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:289][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:293][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:296][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact07.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:300][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact08.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:303][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Mono/FoleyFlesh_Impact_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:306][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/Cue_CreatureDeath.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:310][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:313][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:317][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:320][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:324][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:327][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Gib06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:331][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:334][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:338][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:341][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:344][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:348][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:351][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact07_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:355][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/FoleyFlesh/Stereo/FoleyFlesh_Impact08_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:358][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footsteps_Generic_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:361][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.43:365][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:570][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic03.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:642][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic04.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:644][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic05.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:648][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic06.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:651][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic07.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:654][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic08.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:657][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic09.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:660][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic10.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:664][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic11.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:667][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Mono/Footstep_Generic12.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:670][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footsteps_Generic_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:673][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:676][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:679][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:682][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:685][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:688][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:691][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic07_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:694][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic08_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:697][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic09_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:700][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic10_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:702][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic11_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:705][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Footsteps/Stereo/Footstep_Generic12_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:708][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuAccept_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:711][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuAccept_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:714][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuBack01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:717][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuBack02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:720][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuBack03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:723][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuBack_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:726][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:729][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:731][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:734][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:737][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor_Sides_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:740][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuCursor_UpDown_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:742][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuDiscard_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:745][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuDiscard_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:748][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuEnter01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:751][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuEnter02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:754][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuEnter03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:756][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuEnter_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:759][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuExitStereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:762][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuExit_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:765][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuStart_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:768][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/MenuStart_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.45:771][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/UI_LowHealth_Loop_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:801][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/UI_LowHealth_Loop_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:882][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/InterfaceAudio/Stereo/UI_PlayerRespawn_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:886][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Music/ShooterGame_Music.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:890][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Music/ShooterGame_Music_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:893][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Music/ShooterGame_Music_Intro.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:897][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Music/ShooterGame_Music_Intro_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:900][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Mono/StingerPickup_Health01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:904][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Mono/StingerPickup_Health02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:908][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Mono/StingerPickup_Health_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:911][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Mono/Stinger_PlayerDeath01.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:915][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Stereo/StingerPickup_Health01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:919][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Stereo/StingerPickup_Health02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:922][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Stereo/Stinger_PlayerDeath01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:926][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Stereo/Stinger_PlayerDeath02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:930][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Stingers/Stereo/Stinger_PlayerDeath_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:933][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Equip_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:936][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Reload_Stereo_Cue.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:940][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:943][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:946][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:950][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:953][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:957][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:960][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:963][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:966][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:970][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:973][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:976][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:980][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:983][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:986][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:989][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:993][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:996][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_AmmoPickup03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.48:998][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.49:002][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:572][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Empty03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:653][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:656][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:659][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:663][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap01_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:666][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap02_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:669][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap03_Stereo.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:673][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/UI/Textures/AttackerPortrait.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:676][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/UI/Textures/MarinePortrait.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:680][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/UI/Textures/MarineSprintAvailable.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:683][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/UI/Textures/MarineSprintUnavailable.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:686][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/ML_BoltMetal.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:689][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/ML_Metal_Copper.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:692][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/ML_Metal_Gray.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:695][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/ML_Paint.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:699][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/ML_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:702][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/T_ExampleLayers_Metal02_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:705][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/T_Metal_Metal02_D.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:709][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/T_PaintedMetal01_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:712][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/T_PaintedMetal02.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:715][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/MaterialLayers/T_Rubber.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:719][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_MatA.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:722][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_MatA_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:725][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_MatB.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:728][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_MatB_Inst2.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:732][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_MatB_Inst3.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:735][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_SightLens_Mat.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:739][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Materials/MagGun_SightLens_Mat_Inst.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:742][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Rifle.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:746][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Rifle_Skeleton.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:749][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGunT1_section.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:752][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGunT1_shade.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:755][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGunT2_section.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:759][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGunT2_shade.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:762][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGun_01_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:766][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGun_02_N.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:770][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGun_Decals.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.51:773][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/MagGun_Display_EM.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.54:421][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/SightLens_maskA.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.10.54:502][193]LogAssetTools: Warning: Failed to import 'C:\Users\Geekjam#12\Desktop\asety/Weapons/Textures/SightLens_maskB.uasset'. Unknown extension 'uasset'.
+[2024.04.10-15.12.40:557][323]LogSlate: Took 0.012204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.10-15.13.44:729][331]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2024.04.10-15.13.45:687][443]Cmd: DELETE
+[2024.04.10-15.13.45:687][443]Cmd: ACTOR DELETE
+[2024.04.10-15.13.45:748][443]LogEditorActor: Deleted Actor: Actor
+[2024.04.10-15.13.45:757][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.10-15.13.45:759][443]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (OODLE_BC5, 512X512)
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_N (OODLE_BC5, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_M_03tga (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: T_Vista_Grass_N (OODLE_BC5, 1024X1024)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_D (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: T_Sctraches_01 (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_02_M (OODLE_AutoDXT, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (OODLE_BC5, 2048X2048)
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.10-15.13.56:689][316]LogSkeletalMesh: Building Skeletal Mesh Marine...
+[2024.04.10-15.13.56:714][316]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Characters/Marine/Marine.Marine
+[2024.04.10-15.13.56:716][316]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: 108BFBEABD2BB7718FABC360F51D051FAC1D09E8), compiling. 
+[2024.04.10-15.13.56:868][316]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2024.04.10-15.13.56:887][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2024.04.10-15.13.56:887][316]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2024.04.10-15.13.56:887][316]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2024.04.10-15.13.56:887][316]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2024.04.10-15.14.15:784][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2024.04.10-15.14.15:784][339]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.14.15:794][339]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.10-15.14.15:794][339]LogShaderCompilers: Display: Total job queries 84, among them cache hits 0 (0.00%)
+[2024.04.10-15.14.15:794][339]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2024.04.10-15.14.15:794][339]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2024.04.10-15.14.15:794][339]LogShaderCompilers: Display: ================================================
+[2024.04.10-15.14.17:010][471]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.10-15.14.17:244][498]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2024.04.10-15.14.17:244][498]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.14.18:542][646]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2024.04.10-15.14.18:542][646]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.14.19:684][773]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 49
+[2024.04.10-15.14.19:684][773]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.19:783][782]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2024.04.10-15.14.19:783][782]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.20:577][785]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2024.04.10-15.14.20:579][785]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.22:572][785]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2024.04.10-15.14.22:572][785]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.23:855][785]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2024.04.10-15.14.23:855][785]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.24:931][785]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2024.04.10-15.14.24:931][785]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.25:000][785]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2024.04.10-15.14.25:000][785]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.25:554][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2024.04.10-15.14.25:554][794]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.26:149][830]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.04.10-15.14.26:149][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.14.47:241][200]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.10-15.14.47:257][200]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.10-15.14.51:121][664]LogContentBrowser: Attempting asset rename: NewFolder -> blueprints
+[2024.04.10-15.14.51:121][664]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.10-15.14.56:025][219]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.10-15.15.02:458][219]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.10-15.15.02:486][219]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.10-15.15.02:492][219]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.10-15.15.06:132][656]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.04.10-15.15.06:153][656]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.10-15.15.07:892][863]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/NewBlueprint.NewBlueprint
+[2024.04.10-15.15.08:284][863]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.04.10-15.15.11:177][ 11]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.04.10-15.15.11:180][ 11]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.04.10-15.15.11:182][ 11]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.15.11:182][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.15.54:153][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.10-15.15.54:159][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../M.O/topdownshooter/TDShooter/Saved/Autosaves/Game/Untitled_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.10-15.15.54:165][ 29]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/Untitled_Auto1518918C340BCDEFEE2C107B039825D2E.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2024.04.10-15.15.54:166][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.037
+[2024.04.10-15.15.54:166][ 29]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
