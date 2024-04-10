@@ -894,3 +894,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-14.54.40:229][  0]LogAssetRegistry: Asset discovery search completed in 11.8463 seconds
 [2024.04.10-14.54.40:234][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2024.04.10-14.54.40:236][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.10-15.05.18:496][225]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2024.04.10-15.05.22:942][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.10-15.05.25:080][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.10-15.05.25:099][975]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.10-15.05.29:083][975]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.10-15.05.29:090][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-15.05.29:107][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.04.10-15.05.29:152][975]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/Untitled25B91E7A48BE00532C92BF9D1772B50D.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/Untitled.umap'
+[2024.04.10-15.05.29:158][975]LogFileHelpers: Saving map 'Untitled' took 0.069
+[2024.04.10-15.05.29:164][975]AssetCheck: New page: Asset Save: Untitled
+[2024.04.10-15.05.29:164][975]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2024.04.10-15.05.29:232][977]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
