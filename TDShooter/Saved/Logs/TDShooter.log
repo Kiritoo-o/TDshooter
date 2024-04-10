@@ -1324,3 +1324,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-15.15.54:165][ 29]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/Untitled_Auto1518918C340BCDEFEE2C107B039825D2E.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Saved/Autosaves/Game/Untitled_Auto1.umap'
 [2024.04.10-15.15.54:166][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.037
 [2024.04.10-15.15.54:166][ 29]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.04.10-15.25.54:031][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.04.10-15.25.54:039][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.030
