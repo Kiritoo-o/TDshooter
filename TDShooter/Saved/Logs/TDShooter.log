@@ -1326,3 +1326,161 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.10-15.15.54:166][ 29]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
 [2024.04.10-15.25.54:031][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
 [2024.04.10-15.25.54:039][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.030
+[2024.04.10-15.35.54:342][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.10-15.35.54:350][989]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.051
+[2024.04.10-15.41.55:164][877]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 195C5A5EFA7C379A4F651FA453193803DF99B21A), compiling. 
+[2024.04.10-15.41.55:172][878]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:179][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.04.10-15.41.55:179][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.04.10-15.41.55:179][878]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:199][878]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:199][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2024.04.10-15.41.55:199][878]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:218][878]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 62CC6C94F1C8759A0760403EE7960659811B1293), compiling. 
+[2024.04.10-15.41.55:226][879]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:255][879]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:277][879]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EB332D7D1492CDA9F562F38A2D94821815DD15FD), compiling. 
+[2024.04.10-15.41.55:284][880]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:318][880]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:333][880]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DF022752A9C057FF4A49123EEDC5F3C8B4CF3B6A), compiling. 
+[2024.04.10-15.41.55:347][881]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:369][881]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:378][881]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4517346E7EF78C8C2FAEC0D49D0BB1939D2BFAC5), compiling. 
+[2024.04.10-15.41.55:386][882]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:418][882]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:426][882]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B0402F6551DA8CD74A4B8F99C810CF66CEA8687A), compiling. 
+[2024.04.10-15.41.55:434][883]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:468][883]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.55:481][883]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B56AB77A236F4851860EFF7D5451C02FE5A87719), compiling. 
+[2024.04.10-15.41.55:498][884]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.55:521][885]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2024.04.10-15.41.56:832][958]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2024.04.10-15.41.56:832][958]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.41.56:835][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.10-15.41.56:835][958]LogShaderCompilers: Display: Total job queries 385, among them cache hits 0 (0.00%)
+[2024.04.10-15.41.56:835][958]LogShaderCompilers: Display: Tracking 85 distinct input hashes that result in 65 distinct outputs (76.47%)
+[2024.04.10-15.41.56:835][958]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2024.04.10-15.41.56:835][958]LogShaderCompilers: Display: ================================================
+[2024.04.10-15.41.58:656][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2024.04.10-15.41.58:656][107]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.42.05:914][784]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2024.04.10-15.42.05:914][784]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2024.04.10-15.42.05:914][784]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.04.10-15.42.09:956][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 277
+[2024.04.10-15.42.09:956][192]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.09:966][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 267
+[2024.04.10-15.42.09:966][193]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.11:381][350]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 257
+[2024.04.10-15.42.11:381][350]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.20:637][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 247
+[2024.04.10-15.42.20:637][436]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.24:134][831]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 237
+[2024.04.10-15.42.24:134][831]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.26:411][ 80]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 227
+[2024.04.10-15.42.26:411][ 80]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.28:864][354]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 217
+[2024.04.10-15.42.28:864][354]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.34:986][  5]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 207
+[2024.04.10-15.42.34:986][  5]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.35:511][ 65]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 197
+[2024.04.10-15.42.35:511][ 65]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.37:686][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 187
+[2024.04.10-15.42.37:686][312]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.40:970][685]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 177
+[2024.04.10-15.42.40:970][685]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.46:010][971]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 167
+[2024.04.10-15.42.46:010][971]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 157
+[2024.04.10-15.42.46:010][971]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.47:232][  5]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 147
+[2024.04.10-15.42.47:232][  5]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.50:156][163]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 137
+[2024.04.10-15.42.50:156][163]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.54:901][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/NewBlueprint.NewBlueprint
+[2024.04.10-15.42.55:257][671]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 127
+[2024.04.10-15.42.55:257][671]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.42.56:933][839]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 117
+[2024.04.10-15.42.56:934][839]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.00:839][262]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.04.10-15.43.00:844][262]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.04.10-15.43.00:844][262]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.43.00:845][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.43.01:985][384]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/NewBlueprint.NewBlueprint
+[2024.04.10-15.43.05:871][747]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.04.10-15.43.05:876][747]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.43.05:876][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.43.06:972][864]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 107
+[2024.04.10-15.43.06:972][864]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.07:740][937]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2024.04.10-15.43.07:740][937]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.09:310][978]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2024.04.10-15.43.09:310][978]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.09:975][978]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.10-15.43.09:986][978]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.04.10-15.43.10:003][978]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.04.10-15.43.11:511][155]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2024.04.10-15.43.11:511][155]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.13:443][374]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> a
+[2024.04.10-15.43.13:447][374]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.04.10-15.43.14:487][493]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 67
+[2024.04.10-15.43.14:487][493]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.14:585][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/a.a
+[2024.04.10-15.43.14:913][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2024.04.10-15.43.14:913][503]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.17:135][705]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:195).
+[2024.04.10-15.43.30:180][752]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2024.04.10-15.43.30:180][752]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.30:573][762]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2024.04.10-15.43.30:573][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.31:673][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2024.04.10-15.43.31:674][788]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.39:666][436]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2024.04.10-15.43.39:666][436]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.44:610][861]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.10-15.43.45:154][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2024.04.10-15.43.45:154][914]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.46:196][ 16]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2024.04.10-15.43.46:196][ 16]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.50:609][402]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2024.04.10-15.43.50:609][402]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.50:969][413]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.04.10-15.43.50:969][413]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.43.51:435][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.04.10-15.43.51:435][425]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.04.10-15.47.24:379][940]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.10-15.47.24:384][940]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.04.10-15.47.24:398][940]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.04.10-15.47.25:177][ 34]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2024.04.10-15.47.25:182][ 34]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.04.10-15.47.27:775][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/NewBlueprint1.NewBlueprint1
+[2024.04.10-15.50.39:705][614]BlueprintLog: New page: Compile NewBlueprint1
+[2024.04.10-15.50.39:931][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.04.10-15.50.43:214][910]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.10-15.54.54:282][ 23]BlueprintLog: New page: Compile NewBlueprint1
+[2024.04.10-15.54.54:332][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.04.10-15.55.01:046][651]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-15.55.01:046][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-15.55.53:502][747]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.10-15.55.56:525][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.04.10-15.55.56:531][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Untitled' took 0.056
+[2024.04.10-15.58.32:143][ 48]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddMovementInput' [Nie można odnaleźć określonego modułu.]
+[2024.04.10-16.00.21:078][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.04.10-16.00.21:095][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-16.00.21:126][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.04.10-16.00.21:133][911]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/UntitledC1EBA6C24016BA1F0E67D195D3910046.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/Untitled.umap'
+[2024.04.10-16.00.21:137][911]LogFileHelpers: Saving map 'Untitled' took 0.042
+[2024.04.10-16.00.21:137][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/Untitled_BuiltData.uasset" SILENT=true
+[2024.04.10-16.00.21:176][911]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/Untitled_BuiltData1E54D1BE46C14C25F66CDEA82AD8D142.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/Untitled_BuiltData.uasset'
+[2024.04.10-16.00.21:176][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/NewBlueprint" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/NewBlueprint.uasset" SILENT=true
+[2024.04.10-16.00.21:189][911]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/NewBlueprintFC844EE740EA314E7A1763AD000913E3.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/NewBlueprint.uasset'
+[2024.04.10-16.00.21:190][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/a" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/a.uasset" SILENT=true
+[2024.04.10-16.00.21:194][911]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/a4B2F0EEB448650CA987C8FB8263D56B5.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/a.uasset'
+[2024.04.10-16.00.21:221][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/NewBlueprint1" FILE="../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/NewBlueprint1.uasset" SILENT=true
+[2024.04.10-16.00.21:244][911]LogSavePackage: Moving '../../../../../M.O/topdownshooter/TDShooter/Saved/NewBlueprint17739657C4D8B084263F9AEBD6B514875.tmp' to '../../../../../M.O/topdownshooter/TDShooter/Content/blueprints/NewBlueprint1.uasset'
+[2024.04.10-16.00.21:265][911]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-16.00.21:265][911]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Untitled_BuiltData.Untitled_BuiltData
+[2024.04.10-16.00.21:265][911]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
+[2024.04.10-16.00.21:265][911]LogContentValidation: Display: Validating Blueprint /Game/blueprints/NewBlueprint.NewBlueprint
+[2024.04.10-16.00.21:265][911]LogContentValidation: Display: Validating Blueprint /Game/blueprints/a.a
+[2024.04.10-16.00.21:265][911]LogContentValidation: Display: Validating Blueprint /Game/blueprints/NewBlueprint1.NewBlueprint1
+[2024.04.10-16.00.27:686][366]BlueprintLog: New page: Compile NewBlueprint1
+[2024.04.10-16.00.27:743][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
